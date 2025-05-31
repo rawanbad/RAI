@@ -1,0 +1,808 @@
+Name: Julian Rosenthal
+Phone: 055-6597798
+Email: julian.rosenthal@yahoo.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Criminal Law
+
+Name: Nolan Schwartz
+Phone: 057-2916991
+Email: nolan.schwartz@yahoo.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Savannah Cohen
+Phone: 050-8876555
+Email: savannah.cohen@hotmail.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: International Law
+
+Name: Ethan Adler
+Phone: 054-7111769
+Email: ethan.adler@yahoo.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Aaron Levy
+Phone: 053-4613219
+Email: aaron.levy@gmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Contract Law
+
+Name: Parker Green
+Phone: 059-2811107
+Email: parker.green@yahoo.com
+University: Tel Aviv University
+Year of Study: 3rd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: International Law
+
+Name: Leah Hirsch
+Phone: 056-1552798
+Email: leah.hirsch@hotmail.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: International Law
+
+Name: Chloe Eisenberg
+Phone: 051-8939762
+Email: chloe.eisenberg@hotmail.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Commercial Law
+
+Name: Joshua Greenberg
+Phone: 051-1058356
+Email: joshua.greenberg@hotmail.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Sadie Perlman
+Phone: 051-4777019
+Email: sadie.perlman@gmail.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Commercial Law
+
+Name: Leah Shapiro
+Phone: 052-3590181
+Email: leah.shapiro@yahoo.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: International Law
+
+Name: Alice Rosenfeld
+Phone: 057-3248194
+Email: alice.rosenfeld@hotmail.com
+University: Technion
+Year of Study: 1st year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Commercial Law
+
+Name: Ava Weiss
+Phone: 056-6796449
+Email: ava.weiss@hotmail.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Criminal Law
+
+Name: Grace Rosenberg
+Phone: 058-9322376
+Email: grace.rosenberg@yahoo.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Contract Law
+
+Name: Ella Fischer
+Phone: 055-7257384
+Email: ella.fischer@hotmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: International Law
+
+Name: Ruby Rosen
+Phone: 053-3447301
+Email: ruby.rosen@yahoo.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Contract Law
+
+Name: Samuel Katz
+Phone: 054-9808773
+Email: samuel.katz@yahoo.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Labor Rights
+
+Name: Benjamin Horowitz
+Phone: 050-8070948
+Email: benjamin.horowitz@hotmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: International Law
+
+Name: Zoe Rosenberg
+Phone: 051-5537196
+Email: zoe.rosenberg@hotmail.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Hannah Klein
+Phone: 058-6739407
+Email: hannah.klein@yahoo.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Criminal Law
+
+Name: Sarah Levi
+Phone: 058-6071231
+Email: sarah.levi@hotmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: James Ben-David
+Phone: 052-6616053
+Email: james.ben-david@gmail.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Contract Law
+
+Name: Isaac Green
+Phone: 059-2082925
+Email: isaac.green@yahoo.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Criminal Law
+
+Name: Gabriel Cohen
+Phone: 059-1885710
+Email: gabriel.cohen@gmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Zoe Adler
+Phone: 050-3346059
+Email: zoe.adler@gmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Labor Rights
+
+Name: Mia Berger
+Phone: 051-2701942
+Email: mia.berger@gmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: International Law
+
+Name: Lily Bernstein
+Phone: 054-1108652
+Email: lily.bernstein@gmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Criminal Law
+
+Name: Harper Cohen
+Phone: 050-1370077
+Email: harper.cohen@gmail.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: International Law
+
+Name: Madison Ashkenazi
+Phone: 052-8668278
+Email: madison.ashkenazi@hotmail.com
+University: Tel Aviv University
+Year of Study: 1st year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Owen Bernstein
+Phone: 053-3757977
+Email: owen.bernstein@gmail.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Commercial Law
+
+Name: Grayson Wolf
+Phone: 057-1447765
+Email: grayson.wolf@yahoo.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Labor Rights
+
+Name: Olivia Goldstein
+Phone: 055-7666088
+Email: olivia.goldstein@hotmail.com
+University: Bar-Ilan University
+Year of Study: 3rd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Commercial Law
+
+Name: Eleanor Stern
+Phone: 052-4808825
+Email: eleanor.stern@hotmail.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Wyatt Stern
+Phone: 054-4233529
+Email: wyatt.stern@hotmail.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Joseph Braun
+Phone: 052-4916360
+Email: joseph.braun@hotmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Labor Rights
+
+Name: Hudson Cohen
+Phone: 057-5959748
+Email: hudson.cohen@yahoo.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Aria Rosenfield
+Phone: 057-8365570
+Email: aria.rosenfield@yahoo.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Sarah Shapiro
+Phone: 059-9661448
+Email: sarah.shapiro@hotmail.com
+University: Tel Aviv University
+Year of Study: 1st year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Levi Kleinberg
+Phone: 059-4566808
+Email: levi.kleinberg@hotmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Criminal Law
+
+Name: Aubrey Feldman
+Phone: 053-8078680
+Email: aubrey.feldman@gmail.com
+University: Bar-Ilan University
+Year of Study: 3rd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Contract Law
+
+Name: Evelyn Goldberg
+Phone: 050-6718638
+Email: evelyn.goldberg@gmail.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Jacob Stern
+Phone: 054-7725921
+Email: jacob.stern@hotmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Charlotte Wolf
+Phone: 058-5529747
+Email: charlotte.wolf@hotmail.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Nathan Goldfarb
+Phone: 055-7712800
+Email: nathan.goldfarb@yahoo.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Naomi Levi
+Phone: 054-8915279
+Email: naomi.levi@gmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: John Rosen
+Phone: 050-1005968
+Email: john.rosen@hotmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Criminal Law
+
+Name: Emma Segal
+Phone: 059-5552617
+Email: emma.segal@gmail.com
+University: Technion
+Year of Study: 3rd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Criminal Law
+
+Name: Jack Rosenzweig
+Phone: 059-7076494
+Email: jack.rosenzweig@hotmail.com
+University: Tel Aviv University
+Year of Study: 3rd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Isaiah Goldfarb
+Phone: 053-7972315
+Email: isaiah.goldfarb@gmail.com
+University: University of Haifa
+Year of Study: 3rd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Andrew Shulman
+Phone: 059-5167250
+Email: andrew.shulman@yahoo.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Ryan Goldstein
+Phone: 051-3790693
+Email: ryan.goldstein@yahoo.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Criminal Law
+
+Name: Hannah Weiss
+Phone: 050-7502644
+Email: hannah.weiss@yahoo.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Madeline Weissman
+Phone: 052-7300588
+Email: madeline.weissman@yahoo.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Penelope Levy
+Phone: 059-1928532
+Email: penelope.levy@yahoo.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Criminal Law
+
+Name: Chloe Bloom
+Phone: 051-1812757
+Email: chloe.bloom@yahoo.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Commercial Law
+
+Name: Michael Cohen
+Phone: 050-9657027
+Email: michael.cohen@yahoo.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Asher Weiss
+Phone: 057-6798407
+Email: asher.weiss@hotmail.com
+University: Technion
+Year of Study: 3rd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Lincoln Klein
+Phone: 056-5935710
+Email: lincoln.klein@hotmail.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Daniel Friedman
+Phone: 057-7015597
+Email: daniel.friedman@hotmail.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Criminal Law
+
+Name: Rachel Barak
+Phone: 056-3618435
+Email: rachel.barak@hotmail.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Commercial Law
+
+Name: Michal Cohen
+Phone: 056-4775399
+Email: michal.cohen@gmail.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Chase Rosen
+Phone: 052-1550467
+Email: chase.rosen@yahoo.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Labor Rights
+
+Name: Caleb Halpern
+Phone: 050-9781268
+Email: caleb.halpern@gmail.com
+University: Tel Aviv University
+Year of Study: 1st year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Carter Levy
+Phone: 053-9427553
+Email: carter.levy@yahoo.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Labor Rights
+
+Name: Abigail Mandel
+Phone: 052-4133609
+Email: abigail.mandel@gmail.com
+University: Tel Aviv University
+Year of Study: 3rd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Commercial Law
+
+Name: Christopher Cohen
+Phone: 058-2519284
+Email: christopher.cohen@gmail.com
+University: Bar-Ilan University
+Year of Study: 3rd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Criminal Law
+
+Name: Luke Weissman
+Phone: 052-6492524
+Email: luke.weissman@yahoo.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Contract Law
+
+Name: Lucas Sternberg
+Phone: 054-6202572
+Email: lucas.sternberg@hotmail.com
+University: Bar-Ilan University
+Year of Study: 3rd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Jonathan Silver
+Phone: 058-5920267
+Email: jonathan.silver@gmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Criminal Law
+
+Name: Jayden Katz
+Phone: 050-4575378
+Email: jayden.katz@yahoo.com
+University: Tel Aviv University
+Year of Study: 3rd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: International Law
+
+Name: Maya Kleinman
+Phone: 053-6191714
+Email: maya.kleinman@hotmail.com
+University: Technion
+Year of Study: 1st year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Hailey Friedman
+Phone: 052-2690938
+Email: hailey.friedman@yahoo.com
+University: Tel Aviv University
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Labor Rights
+
+Name: Natalie Rosenbaum
+Phone: 059-8483315
+Email: natalie.rosenbaum@hotmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Criminal Law
+
+Name: Layla Shimon
+Phone: 057-8422038
+Email: layla.shimon@yahoo.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Levi Horowitz
+Phone: 059-6405747
+Email: levi.horowitz@yahoo.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Criminal Law
+
+Name: Henry Levi
+Phone: 059-6943360
+Email: henry.levi@yahoo.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Contract Law
+
+Name: Amelia Perlman
+Phone: 054-2456889
+Email: amelia.perlman@gmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: Bella Goldberg
+Phone: 058-4010224
+Email: bella.goldberg@hotmail.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Commercial Law
+
+Name: William Kaplan
+Phone: 051-8143245
+Email: william.kaplan@gmail.com
+University: Technion
+Year of Study: 3rd year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Labor Rights
+
+Name: Anna Green
+Phone: 053-1979137
+Email: anna.green@yahoo.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Criminal Law
+
+Name: Layla Fischer
+Phone: 055-5863080
+Email: layla.fischer@hotmail.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: International Law
+
+Name: Alexander Shapiro
+Phone: 050-1230763
+Email: alexander.shapiro@yahoo.com
+University: Tel Aviv University
+Year of Study: 4th year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Labor Rights
+
+Name: Elijah Rosenfeld
+Phone: 052-3597037
+Email: elijah.rosenfeld@gmail.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Commercial Law
+
+Name: Emily Israeli
+Phone: 053-3001722
+Email: emily.israeli@gmail.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Landon Katz
+Phone: 057-5487175
+Email: landon.katz@yahoo.com
+University: Tel Aviv University
+Year of Study: 1st year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Commercial Law
+
+Name: Easton Shulman
+Phone: 053-3474126
+Email: easton.shulman@yahoo.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: International Law
+
+Name: Scarlett Rosen
+Phone: 055-3019703
+Email: scarlett.rosen@hotmail.com
+University: Technion
+Year of Study: 1st year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Contract Law
+
+Name: David Danino
+Phone: 059-7489732
+Email: david.danino@gmail.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Contract Law
+
+Name: Natalie Kaplan
+Phone: 054-9267949
+Email: natalie.kaplan@hotmail.com
+University: Bar-Ilan University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Stella Cohen
+Phone: 056-8102187
+Email: stella.cohen@hotmail.com
+University: University of Haifa
+Year of Study: 1st year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Contract Law
+
+Name: Emma Eisenberg
+Phone: 052-7823966
+Email: emma.eisenberg@gmail.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Lily Schwartz
+Phone: 051-7829232
+Email: lily.schwartz@hotmail.com
+University: Tel Aviv University
+Year of Study: 2nd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Criminal Law
+
+Name: Isaac Rubin
+Phone: 056-3846386
+Email: isaac.rubin@hotmail.com
+University: Tel Aviv University
+Year of Study: 3rd year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Matthew Stein
+Phone: 052-5649196
+Email: matthew.stein@hotmail.com
+University: Tel Aviv University
+Year of Study: 4th year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Labor Rights
+
+Name: Camila Shimon
+Phone: 055-3557514
+Email: camila.shimon@gmail.com
+University: University of Haifa
+Year of Study: 4th year
+Work Experience: Research Assistant in Constitutional Law
+Areas of Interest: Contract Law
+
+Name: Elijah Weissman
+Phone: 059-3965017
+Email: elijah.weissman@yahoo.com
+University: Technion
+Year of Study: 4th year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: Criminal Law
+
+Name: Victoria Bloom
+Phone: 057-3680829
+Email: victoria.bloom@yahoo.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Internship at Tel Aviv District Court
+Areas of Interest: Commercial Law
+
+Name: Sophia Sapir
+Phone: 054-4208676
+Email: sophia.sapir@gmail.com
+University: Technion
+Year of Study: 2nd year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: Commercial Law
+
+Name: Daniel Rubin
+Phone: 051-9612962
+Email: daniel.rubin@yahoo.com
+University: University of Haifa
+Year of Study: 2nd year
+Work Experience: Teaching Assistant for Contract Law
+Areas of Interest: International Law
+
+Name: Christian Rosen
+Phone: 056-6086682
+Email: christian.rosen@yahoo.com
+University: Bar-Ilan University
+Year of Study: 1st year
+Work Experience: Volunteer project at Legal Aid Center
+Areas of Interest: International Law
+
+Name: Adam Rosenstein
+Phone: 050-2556567
+Email: adam.rosenstein@yahoo.com
+University: Bar-Ilan University
+Year of Study: 4th year
+Work Experience: Clinic work in Labor Rights Advocacy
+Areas of Interest: Criminal Law
+
