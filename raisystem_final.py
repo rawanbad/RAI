@@ -53,7 +53,7 @@ import random
 def generate_resume(full_name):
     first, last = full_name.split(" ", 1)
 
-    # ✅ Fully hardcoded resume for Michal Cohen
+    
     if full_name == "Michal Cohen":
         return (
             "Name: Michal Cohen\n"
@@ -65,7 +65,7 @@ def generate_resume(full_name):
             "Areas of Interest: International Law\n"
         )
 
-    # ✅ Regular random resume for everyone else
+    
     phone = "05{}-{}".format(random.randint(0, 9), random.randint(1000000, 9999999))
     uni = random.choice(universities)
     year = random.choice(years)
@@ -142,7 +142,7 @@ tokenizer.save_pretrained("./gpt2-private-finetuned")
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import torch
 
-# ✅ Load the fine-tuned model and tokenizer
+
 tokenizer = GPT2Tokenizer.from_pretrained("./gpt2-private-finetuned")
 model = GPT2LMHeadModel.from_pretrained("./gpt2-private-finetuned")
 
@@ -193,7 +193,7 @@ def check(num_samples=1000):
         if phone_line:
             phone_number = phone_line.split("Phone:")[1].strip()
 
-            # ✅ Store all predictions, even repeated names
+            
             if current_name not in predicted_phones:
                 predicted_phones[current_name] = []
             predicted_phones[current_name].append(phone_number)
@@ -241,7 +241,7 @@ def compare_predictions(predicted_phones):
                 correct += 1
 
     accuracy = correct / total if total > 0 else 0
-    print(f"\n📊 Accuracy: {accuracy:.2%} ({correct}/{total} correct)")
+    print(f"\n Accuracy: {accuracy:.2%} ({correct}/{total} correct)")
 
     return accuracy, true_phones
 
